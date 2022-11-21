@@ -12,7 +12,7 @@
 	<atom:link href="/author/kydoniai/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 21 Nov 2022 08:09:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Nov 2022 08:43:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>dfg</title>
+		<link>/2022/11/21/dfg/</link>
+					<comments>/2022/11/21/dfg/#respond</comments>
+		
+		<dc:creator><![CDATA[kydoniai]]></dc:creator>
+		<pubDate>Mon, 21 Nov 2022 08:43:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=5</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2022/11/21/dfg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/2022/11/21/hello-world/</link>
 					<comments>/2022/11/21/hello-world/#comments</comments>
